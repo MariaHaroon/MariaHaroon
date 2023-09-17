@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Maria Haroon</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A MERN Full Stack developer from Pakistan</h3>
 
 - 📫 How to reach me **mariaharoon.dev@gmail.com**
 
